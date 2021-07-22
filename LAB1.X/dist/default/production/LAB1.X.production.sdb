@@ -11,15 +11,15 @@
 [v ___eecpymem __eecpymem `(v  1 e 1 0 ]
 "39
 [v ___memcpyee __memcpyee `(v  1 e 1 0 ]
-"50 C:\Users\user\OneDrive\Documentos\GitHub\Lab01\LAB1.X\main.c
+"48 C:\Users\user\OneDrive\Documentos\GitHub\Lab01\LAB1.X\main.c
 [v _ISR ISR `II(v  1 e 1 0 ]
-"100
+"99
 [v _main main `(v  1 e 1 0 ]
-"109
+"108
 [v _Setup Setup `(v  1 e 1 0 ]
-"147
+"146
 [v _ADC ADC `(v  1 e 1 0 ]
-"153
+"152
 [v _Alarm Alarm `(v  1 e 1 0 ]
 "4 C:\Users\user\OneDrive\Documentos\GitHub\Lab01\LAB1.X\segments.c
 [v _tabla tabla `(v  1 e 1 0 ]
@@ -182,48 +182,48 @@
 [v _ANSELbits ANSELbits `VES141  1 e 1 @392 ]
 "3449
 [v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
-"34 C:\Users\user\OneDrive\Documentos\GitHub\Lab01\LAB1.X\main.c
+"32 C:\Users\user\OneDrive\Documentos\GitHub\Lab01\LAB1.X\main.c
 [v _anlec anlec `uc  1 e 1 0 ]
-"35
+"33
 [v _mux mux `uc  1 e 1 0 ]
-"36
+"34
 [v _nowadc nowadc `uc  1 e 1 0 ]
-"37
+"35
 [v _HNibble HNibble `uc  1 e 1 0 ]
-"38
+"36
 [v _LNibble LNibble `uc  1 e 1 0 ]
-"39
+"37
 [v _AR1 AR1 `uc  1 e 1 0 ]
-"40
+"38
 [v _AR2 AR2 `uc  1 e 1 0 ]
-"41
+"39
 [v _AR3 AR3 `uc  1 e 1 0 ]
-"42
+"40
 [v _AR4 AR4 `uc  1 e 1 0 ]
-"100
+"99
 [v _main main `(v  1 e 1 0 ]
 {
-"107
+"106
 } 0
-"109
+"108
 [v _Setup Setup `(v  1 e 1 0 ]
 {
-"145
+"144
 } 0
-"153
+"152
 [v _Alarm Alarm `(v  1 e 1 0 ]
 {
-"160
+"159
 } 0
-"147
+"146
 [v _ADC ADC `(v  1 e 1 0 ]
 {
-"152
+"151
 } 0
-"50
+"48
 [v _ISR ISR `II(v  1 e 1 0 ]
 {
-"98
+"97
 } 0
 "4 C:\Users\user\OneDrive\Documentos\GitHub\Lab01\LAB1.X\segments.c
 [v _tabla tabla `(v  1 e 1 0 ]

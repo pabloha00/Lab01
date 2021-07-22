@@ -2654,7 +2654,6 @@ void tabla(uint8_t dec);
 
 
 
-
 #pragma config FOSC = XT
 #pragma config WDTE = OFF
 #pragma config PWRTE = OFF
@@ -2668,7 +2667,6 @@ void tabla(uint8_t dec);
 
 #pragma config BOR4V = BOR40V
 #pragma config WRT = OFF
-
 
 
 
@@ -2715,6 +2713,7 @@ void __attribute__((picinterrupt(("")))) ISR(void){
     }
     if (INTCONbits.RBIF == 1){
         INTCONbits.RBIF = 0;
+
         AR1 = PORTBbits.RB0;
         if (AR1==0){
             AR2=0;
