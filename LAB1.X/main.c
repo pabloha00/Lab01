@@ -130,7 +130,7 @@ void Setup(void){
     IOCBbits.IOCB1 = 1;
     WPUBbits.WPUB0 = 1; //Weak pull-ups
     WPUBbits.WPUB1 = 1;
-    PIR1bits.ADIF = 0; //Función AD lista para comenzar
+    PIR1bits.ADIF = 0; //Función AD lisa para comenzar
     OSCCONbits.IRCF0 = 0; //Configuración del oscilador
     OSCCONbits.IRCF1 = 1;
     OSCCONbits.IRCF2 = 1;
